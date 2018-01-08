@@ -28,7 +28,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#21940a"
+        "#21940a",
+        "#f70d0d"
       ]
     },
     "versionFirst": "4.3.4",
@@ -60,6 +61,9 @@
             },
             ".mbr-figure": {
               "margin": "0 auto"
+            },
+            "H1": {
+              "color": "#f70d0d"
             }
           },
           "_name": "header4",
